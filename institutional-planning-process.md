@@ -8,7 +8,13 @@
 - The leadership team then evaluates each team’s budget wholistically as part of the entire organization budget and iterates to ensure this meets spending criteria.
 - Progress and updates to the strategic plan are discussed quarterly at board meetings and with the team at State of the School presentations and town hall discussions. We are working to communicate this to students through bi-annual blog posts, State of the School presentations, and this repository.
 
-# How we make individual decisions:
+# How we make individual decisions (and who makes them):
+
+
+# How we include students in decisions:
+
+
+# How we include faculty and staff in decisions:
 
 
 # How we plan curriculum development:
