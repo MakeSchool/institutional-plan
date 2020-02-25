@@ -19,4 +19,4 @@ For context, the largest Computer Science programs in the country are 500-1000 s
 - 30% of new hires and new board members to be underrepresented people of color, 50% to be women and non-binary
 
 ### Growth beyond 2020
-We don't have a concrete student growth target beyond Fall 2020. We will evaluate our financial and operational constraints during our annual planning period this summer to establish a targets for 2021. We are aiming to balance our financial stability (which improves with a larger student body) with maintaining high strong student satisfaction and top quality outcomes.
+We don't have a concrete student growth target beyond Fall 2020. We will evaluate our financial and operational constraints during our annual planning period this summer to establish a targets for 2021. We are aiming to balance our financial stability (which improves with a larger student body) with maintaining high student satisfaction and top quality outcomes.
