@@ -38,7 +38,7 @@ Track changes:
  ## Science & Letters
  Make School is designing the framework for our Science and Letters program and what it will look like  once we are independently accredited and no longer in partnership with DU (2- 3 years).  During the next 2-3 years we will be iteratively building out our Science and Letters program while still adhering to the General Education requirements of DU. 
 
-### Framework for Make School Science & Letters### 
+### Framework for Make School Science & Letters
 **Rational:** Make School’s general education program aims to develop our students into well rounded and engaged citizens. 
    
    Our curriculum uses the lenses of Self, Community, and World to help students develop agency, embody a growth mindset, learn to solve impactful problems, and engage in their communities. Our courses are project-based, interdisciplinary, connected to real-world phenomenon, and emphasize character development. 
