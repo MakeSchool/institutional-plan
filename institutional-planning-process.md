@@ -1,6 +1,6 @@
 # Institutional Planning Process
 
-### Staff area owner and author: Ashu Desai (Founder)
+*Staff area owner and author: Ashu Desai (Founder)*
 
 ## How we define our strategic plan:
 

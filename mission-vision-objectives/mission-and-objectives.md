@@ -1,6 +1,6 @@
 # Mission and Objectives
 
-### Staff area owner and author: Ashu Desai (Founder)
+*Staff area owner and author: Ashu Desai (Founder)*
 
 As an organization, we prioritize our work and innovation to support our mission, 3–5 year objective, and 2020 key metrics.
 

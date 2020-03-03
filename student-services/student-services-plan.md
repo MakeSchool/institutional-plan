@@ -1,6 +1,6 @@
 # Student Services
 
-### Area owner and author: Michelle Blackburn (Director of Student and Academic Affairs)
+*Area owner and author: Michelle Blackburn (Director of Student and Academic Affairs)*
 
 ## School wide-events (All Hands, Demo Night, Town Hall):
 

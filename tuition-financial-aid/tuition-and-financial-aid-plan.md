@@ -1,6 +1,6 @@
 # Tuition and Financial Aid Plan
 
-### Key staff stakeholders: Anne Spalding (Dean), Erin Cooney (Head of Ops), Jeremy Rossmann (Founder)
+*Key staff stakeholders: Anne Spalding (Dean), Erin Cooney (Head of Ops), Jeremy Rossmann (Founder)*
 
 This section is WIP.
 

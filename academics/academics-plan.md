@@ -1,6 +1,6 @@
 # Academics
 
-### Staff area owner and author: Anne Spalding (Dean)
+*Staff area owner and author: Anne Spalding (Dean)*
 
 ## Updates - Spring 2020:
 

@@ -1,7 +1,7 @@
 # Community Strategy V5  
 Last update: 3/3/20
 
-### Staff area owner and author: Ellie MacBride (Community Manager)
+*Staff area owner and author: Ellie MacBride (Community Manager)*
 
 ----------
 # Overview
