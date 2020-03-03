@@ -1,4 +1,8 @@
-# How we define our strategic plan:
+# Institutional Planning Process
+
+### Staff area owner and author: Ashu Desai (Founder)
+
+## How we define our strategic plan:
 
 - Once every 2 years, the Leadership Team evaluates mid-term (3-5 year) objective with input from team members (via 1:1 conversations and group workshops), students (via student feedback surveys), and the board of directors (via 1:1 conversations and board meetings). We are working on additional channels to further integrate student feedback into this process. This helps inform growth and financing plans with informal longer term plans.
 - Every year during Q4, each team within the organization (ie. College, Growth, Operations, Engineering) produces a retrospective highlighting successes and challenges of the past year, along with opportunities for the coming year.
@@ -8,13 +12,9 @@
 - The leadership team then evaluates each team’s budget holistically as part of the entire organization budget and iterates to ensure this meets spending criteria.
 - Progress and updates to the strategic plan are discussed quarterly at board meetings and with the team at State of the School presentations and town hall discussions. We are working to communicate this to students through bi-annual blog posts, State of the School presentations, and this repository.
 
-# How we make individual decisions (and who makes them):
+### Upcoming topics:
 
-
-# How we include students in decisions:
-
-
-# How we include faculty and staff in decisions:
-
-
-# How we plan curriculum development:
+- How we make individual decisions (and who makes them)
+- How we include students in decisions
+- How we include faculty and staff in decisions
+- How we plan curriculum development
