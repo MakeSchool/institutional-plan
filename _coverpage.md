@@ -7,6 +7,6 @@
 > Documentation about Make School's offerings and future plans.
 
 [Leave Feedback](https://github.com/MakeSchool/Vision-and-Institutional-Plan)
-[Read Docs](#vision-and-institutional-plan)
+[Read Docs](#institutional-plan)
 
 ![color](#f5f6f8)
