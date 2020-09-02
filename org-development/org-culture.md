@@ -1,4 +1,4 @@
-# Culture Deck [draft]
+# Organizational Culture Deck [draft]
 
 *Staff area owner and author: Ashu Desai (Founder)*
 
