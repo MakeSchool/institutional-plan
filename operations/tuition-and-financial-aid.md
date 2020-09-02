@@ -1,6 +1,6 @@
 # Tuition and Financial Aid Plan
 
-*Key staff stakeholders: Anne Spalding (Dean), Erin Cooney (Head of Ops), Jeremy Rossmann (Founder)*
+*Staff area owner and author: Eric Deng (Director of Finance and Operations)*
 
 This section is WIP.
 

@@ -1,6 +1,6 @@
 # Facilities Plan
 
-*Staff area owner and author: Eric Deng (Business Operations Manager)*
+*Staff area owner and author: Eric Deng (Director of Finance and Operations)*
 
 Below are quick bullet points on key areas of our building. It is important to note that while these are our current plans, we continually evaluate usage of space and emergent needs, and adjust plans or spaces accordingly to meet those needs, including potentially taking over additional facilities in the surrounding area to meet identified needs.
 
