@@ -1,3 +1,3 @@
-# Outcomes
+# Computer Science
 
-*Staff area owner and author: Anne Spalding*
+*Staff area owner and author: Anne Spalding (Dean)*

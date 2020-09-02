@@ -9,6 +9,7 @@
 * Student Affairs
   * [Justice, Equity, Diversity, and Inclusion](student-affairs/jedi.md)
   * [Community](student-affairs/community.md)
+  * [Student Council](student-affairs/student-council.md)
   * [Student Services](student-affairs/student-services.md)
   * [Student Life](student-affairs/student-life.md)
 * Operations
