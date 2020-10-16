@@ -1,6 +1,6 @@
 # Justice, Equity, Diversity, and Inclusion
 
-*Staff area owner and author: Komal Desai (Marketing Manager and JEDI Council Member)*
+*Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Member)*
 
 Make School pledges to support initiatives that increase and maintain justice, equity, diversity, and inclusion for all students at Make School, and in particular those students for whom creating safe spaces in tech is of utmost importance. To do this work, we have formed the JEDI Council at Make School - an organization that will serve as an accountability body that can push Make school towards becoming an even more diverse and inclusive community. Below, you can find the JEDI Council Charter. As we evolve the JEDI Council and its charter over the next few months, we will be posting updates to this page.
 
