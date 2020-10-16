@@ -33,6 +33,10 @@ Ideas for initial JEDI Council projects/initiatives:
   4.  Ensuring that the interaction between staff and students aligns with our overall mission of creating an equitable and inclusive learning environment
 
 
-### Information on Committees formed under the JEDI Council
+### Information on Committees and/or Groups formed under the JEDI Council
 
 #### Student JEDI Committee
+Details coming soon!
+
+#### JEDI Reading Group
+Details coming soon!
