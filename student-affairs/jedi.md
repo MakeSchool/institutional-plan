@@ -41,4 +41,4 @@ Ideas for initial JEDI Council projects/initiatives:
 Details coming soon!
 
 #### JEDI Reading Group
-Details coming soon!
+The JEDI Reading Group is an optional space for members of the Make School staff to learn about the many ways systemic injustice has impacted individuals, communities, and the country over time. The learning is objective-based and aims to be actionable. Each month, the group focuses on a particular topic to delve into more deeply. Examples of past learning topics include restorative interventions, allyship, and analysis of anti-racist initiatives at peer institutions.
