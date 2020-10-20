@@ -27,7 +27,7 @@ Ideas for initial JEDI Council projects/initiatives:
 * Creation of company-wide JEDI OKRs to include in rubrics for all team members
 * Holding each team (including SLT) accountable for JEDI goals and metrics
 * Interviews of D&I consulting firms 
-* Creation of job description for a full-time, staff JEDI resource at Make School who will also help continue to evolve the JEDI Council
+* Support with hiring a full-time, staff JEDI resource at Make School who will also help continue to evolve the JEDI Council
 * Creation of a student-facing/encompassing JEDI subcommittee that will work on the following initiatives:
   1.  Supporting JEDI StuEx work including helping define a role and launch the search for a dedicated, student-facing JEDI hire
   2.  Creation of ongoing learning sessions
