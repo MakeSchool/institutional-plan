@@ -1,6 +1,9 @@
 # Academics
 
 *Staff area owner and author: Anne Spalding (Dean)*
+## OKR 1: 60 student Net Promoter Score (a measure of student satisfaction)
+## OKR 2: 80% Retention with no significant variance across demographics
+## OKR 3: Placing 95% of our grads in jobs that average $90k+ annual salary
 
 ## Our Community: 
 The Make School community is the heart of our innovative and successful learning environment.  
@@ -40,19 +43,10 @@ Make School uses project based, hands-on, and active learning in all classes. St
 Our Bachelor of Science in Applied Computer Science program consist of courses in the categories of Software Product Development, Technical Curriculum in one of four concentrations (Front End Web, Back End Web, Data Science, Mobile), and Science and Letters curriculum.  See the [Computer Science](https://github.com/MakeSchool/institutional-plan/blob/master/academics/computer-science.md) and [Science and Letters](https://github.com/MakeSchool/institutional-plan/blob/master/academics/sciences-and-letters.md) pages for more details. 
 
 ### Delivery Modality
-Since March 2020, all Make School courses have been delivered in a synchronous, online format.  Classes sessions include some lecture sessions to set learning context, but are primarily guided working sessions where students work solo or in groups with guidance and feedback from the instructors and TAs.  In an online setting, guided sessions are facilitated through software that allows for easy transition between full class, small group and 1:1 support.  Our instructors continue to experiment with innovative approaches to learning in an online setting.
+Since March 2020, due to the pandemic, all Make School courses have been delivered in a synchronous, online format.  Classes sessions include some lecture sessions to set learning context, but are primarily guided working sessions where students work solo or in groups with guidance and feedback from the instructors and TAs.  In an online setting, guided sessions are facilitated through software that allows for easy transition between full class, small group and 1:1 support.  Our instructors continue to experiment with innovative approaches to learning in an online setting.
 
-We are currently committed to delivering all courses online through the end of Term 4 (May 13th) to support student safety during the ongoing pandemic.  We are exploring having some online modalities available after the pandemic and will provide updates on a regular basis. 
+We are currently committed to delivering all courses online through the end of Term 4 (May 13, 2021) to support student safety during the ongoing pandemic.  We are exploring having some online modalities available after the pandemic and will provide updates on a regular basis. 
 
-### Curriculum Changes
-Course schedule changes:
-- The schedule for when classes are offered each term is determined based on the hours the class needs to be in session (5.5 hours per week for a 3 unit course in 7 weeks) and optimizing for student, instructor, community schedules.  The list of courses offered each term is determined on a year to year basis and published here: [make.sc/course-schedule](http://make.sc/course-schedule).  Each term, we evaluate if anny additional courses are needed for our students and (when possible) offer these courses as well.  Occasionally a course that doesn't have enough enrollment will be moved to a later term. 
 
-Track changes:
-- For fall 2020 we will run the current curriculum with the MOB, BEW, FEW, DS Tracks.  We have revisited our foundation courses to make these both more accessible to incoming students without prior programming knowledge and to allow students who do have prior knowledge to take diagnostic exams to waive entry level courses.
-- In late fall, early spring we will begin exploring additional tracks or course delivery methods.
-
-Course changes:
-- For fall 2020, we updated our foundational curriculum to include CS 1.0 Introduction to Programming and WEB 1.0 Web Fundamentals to provide a better onboarding into our program for students with no previous programming experience.  High pass rates in Term 1 indicate this was a successful change that will increase student success. 
 
  
