@@ -16,5 +16,10 @@ Our BS in ACS (BACS) program is an accelerated degree program with studies appli
 - **Science & Letters Curriculum includes:**
   - Courses covering a broad spectrum of learning in writing, quantitative literacy, science and social science.  These courses are often offered over a semester (two terms).   See more in the [Science & Letters Section]()
   
-  
-## Updates to this section will include any changes in course offerings or degree requirements. 
+
+### Curriculum Changes
+Course schedule changes:
+- The schedule for when classes are offered each term is determined based on the hours the class needs to be in session (5.5 hours per week for a 3 unit course in 7 weeks) and optimizing for student, instructor, community schedules.  The list of courses offered each term is determined on a year to year basis and published here: [make.sc/course-schedule](http://make.sc/course-schedule).  Each term, we evaluate if anny additional courses are needed for our students and (when possible) offer these courses as well.  Occasionally a course that doesn't have enough enrollment will be moved to a later term. 
+
+Course changes:
+- For fall 2020, we updated our foundational curriculum to include CS 1.0 Introduction to Programming and WEB 1.0 Web Fundamentals to provide a better onboarding into our program for students with no previous programming experience.  High pass rates in Term 1 indicate this was a successful change that will increase student success. 

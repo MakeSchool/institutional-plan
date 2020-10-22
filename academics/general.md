@@ -1,13 +1,16 @@
 # Academics
 
 *Staff area owner and author: Anne Spalding (Dean)*
+## OKR 1: 60 student Net Promoter Score (a measure of student satisfaction)
+## OKR 2: 80% Retention with no significant variance across demographics
+## OKR 3: Placing 95% of our grads in jobs that average $90k+ annual salary
 
-## Updates - Term 1, 2020:
+## Our Community: 
+The Make School community is the heart of our innovative and successful learning environment.  
+
 
 ### Student Body:
-This fall we welcomed 108 new juniors along with 103 returning seniors and 29 super seniors for a total student body of 240 students.  
-
-** Add in retention & demographic stats**
+This fall we welcomed 107 new juniors along with 102 returning seniors and 28 super seniors for a total student body of 237 students.  We are committed to recruiting and supporting students from diverse backgrounds that are historically underrepresented in technical careers.  Enrollment and demographic data is published on our [website](https://www.makeschool.com/computer-science-degree/outcomes/data)
 
 
 ### Faculty:
@@ -17,36 +20,33 @@ The number of instructors is based on four key factors:
    - Course Schedule: which courses/concentrations are offered each term
    - Number of students
 
-For the 2021 school year we currently have 10 full-time techincal faculty and 1 open full-time techinical roles.  We also have 2 full-time S&L facutly and 7 part-time S&L faculty.  The full-time faculty / studnet ratio will be 13 / 240 ~ 1 / 18 which is well within our goal of 1/20.
+For the 2021 school year we currently have 10 full-time technical faculty and 1 open full-time technical role.  We also have 2 full-time S&L faculty and 7 part-time S&L faculty.  The full-time faculty / student ratio is 13 / 240 ~ 1 / 18 which is well within our goal of 1/20.
 
 
 ### Student Life
 The student life team is currently made up of two Student Experience Coordinators, one Residence Life Coordinator and the Director of Student Life.  We are hiring an additional Student Experience and D&I Coordinator this term.  
 
-Mental health has been outsourced to the online BetterHelp program which is free for all studnets.  
+Mental health has been outsourced to the online BetterHelp program which is free for all students.  
 
-Our student-expereince coordinators / student ratio is 3 / 240 = 1/ 80 which is significantly lower than most colleges.
+Our student-experience coordinators / student ratio is 3 / 240 = 1/ 80 which is significantly lower than most colleges.  
 
+See full details on the [Student Life Page](https://github.com/MakeSchool/institutional-plan/blob/master/student-affairs/student-life.md)
 
-## Curriculum Changes
-Course schedule changes:
-- The schedule for when classes are offered each term is determined based on the hours the class needs to be in session (5.5 hours per week for a 3 unit course in 7 weeks) and trying to optimize for student, instructor, community, and building schedules.  
-
-# NOT UPDATED YET
-- Next fall we will need to run additional sections and we will use what we learn from running courses in the summer to best determine how to do this.  We are currently evaluating the final building remodel to understand the number of course sections we will be able to offer in any time slot.
-
-Course load updates:
-- Due to incomming juniors not having any transfer S&L we are currently allowing students who are succeeding in courses to take a course load of 5 courses per term (instead of 4).  This seems to be working so will likely be continued to next year.
+### Coaching / Mentorship
+Make School provides many coaching and mentorship experiences for our students.  We know that 1:1 connections are vital to student success and are committed to retaining these in significant, value adding ways.   Each student is assigned a coach who supports their learning process throughout the program, and we have a series of community building workshops, student resource groups and other programs to provide specific support for various student coaching and mentorship needs. 
 
 
-Track changes:
-- For fall 2020 we will run the current curriculum with the MOB, BEW, FEW, DS Tracks.  We have revisited our foundation courses to make these both more accessible to incoming students without prior programming knowledge and to allow students who do have prior knowledge to take diagnostic exams to waive entry level courses.
-- In late fall, early spring we will begin exploring additional tracks or course delivery methods.
+## Our Approach to Learning:
+Make School uses project based, hands-on, and active learning in all classes. Students learn product development through building software designed to impact real problems. You’ll be learning the same technologies, frameworks and design process used by tech companies.  
 
- ## Science & Letters
- Make School is designing the framework for our Science and Letters program and what it will look like  once we are independently accredited and no longer in partnership with DU (2- 3 years).  During the next 2-3 years we will be iteratively building out our Science and Letters program while still adhering to the General Education requirements of DU.
+### Curriculum: 
+Our Bachelor of Science in Applied Computer Science program consist of courses in the categories of Software Product Development, Technical Curriculum in one of four concentrations (Front End Web, Back End Web, Data Science, Mobile), and Science and Letters curriculum.  See the [Computer Science](https://github.com/MakeSchool/institutional-plan/blob/master/academics/computer-science.md) and [Science and Letters](https://github.com/MakeSchool/institutional-plan/blob/master/academics/sciences-and-letters.md) pages for more details. 
+
+### Delivery Modality
+Since March 2020, due to the pandemic, all Make School courses have been delivered in a synchronous, online format.  Classes sessions include some lecture sessions to set learning context, but are primarily guided working sessions where students work solo or in groups with guidance and feedback from the instructors and TAs.  In an online setting, guided sessions are facilitated through software that allows for easy transition between full class, small group and 1:1 support.  Our instructors continue to experiment with innovative approaches to learning in an online setting.
+
+We are currently committed to delivering all courses online through the end of Term 4 (May 13, 2021) to support student safety during the ongoing pandemic.  We are exploring having some online modalities available after the pandemic and will provide updates on a regular basis. 
 
 
 
-## Coaching / Mentorship
-We are currently exploring how to implement coaching and mentorship with more students on site.  We recognize that 1:1 connections are vital to student success and are committed to retaining these in significant, value adding ways.  
+ 
