@@ -38,7 +38,7 @@ Ideas for initial JEDI Council projects/initiatives:
 ### Information on Committees and/or Groups formed under the JEDI Council
 
 #### Student JEDI Committee
-**Purpose**
+*Purpose*
 * Why we created/joined this committee
   * To help everyone feel represented
   * To help us all feel like we do have a place at Make School
@@ -47,7 +47,7 @@ Ideas for initial JEDI Council projects/initiatives:
   * It will give us all a voice and let us all learn from one another 
   * It allows us to learn from each other’s experiences and come up with solutions so issues/problems that arise don’t happen again
 
-**List of Initiatives**
+*List of Initiatives*
 * Introduce the usage of pronouns on student Slack profiles
 * Assist Make School's Student Experience Team in interviewing and selecting JEDI Program Coordinator candidates
 * Implementing "All Hands on Deck", an initiative to support student learning and growth
