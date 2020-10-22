@@ -2,7 +2,7 @@
 
 *Staff area owner and author: Anne Spalding (Interim Outcomes Manager)*
 
-Our focus for our outcomes initiatives are to place 95% of our grads in jobs that average $90k+ annual salary.
+**Our focus for outcomes initiatives is to place 95% of our grads in jobs that average $90k+ annual salary.**
 
 
 ## Updates for Term 2 - 2020

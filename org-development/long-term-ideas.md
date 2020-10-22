@@ -1,4 +1,4 @@
-# Institutional Planning Process
+# Long Term Ideas
 
 *Staff area owner and author: Ashu Desai (Founder)*
 
