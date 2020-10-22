@@ -1,6 +1,6 @@
-#Housing
+# Housing
 
-*Staff area owner and author: Michelle Lessly Blackburn (Director of Student Affairs) : Interim - Anne Spalding (Dean) 
+*Staff area owner and author: Michelle Lessly Blackburn (Director of Student Affairs) : Interim - Anne Spalding (Dean)* 
 
 Due to the pandemic, Make School reduced it's housing support to a minimum level for 2020-2021; maintaining housing for all existing students at our 851 California residence and offering some housing for incoming juniors through a partnership with Herbert Hotel. Social distancing, increased cleaning and other measures were put in place to maintain student safety.
 
