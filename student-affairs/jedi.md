@@ -50,7 +50,7 @@ Ideas for initial JEDI Council projects/initiatives:
 *List of Initiatives*
 * Introduce the usage of pronouns on student Slack profiles
 * Assist Make School's Student Experience Team in interviewing and selecting JEDI Program Coordinator candidates
-* Implementing "All Hands on Deck", an initiative to support student learning and growth
+* Implement "All Hands on Deck", an initiative to support student learning and growth
 
 #### JEDI Reading Group
 The JEDI Reading Group is an optional space for members of the Make School staff to learn about the many ways systemic injustice has impacted individuals, communities, and the country over time. The learning is objective-based and aims to be actionable. Each month, the group focuses on a particular topic to delve into more deeply. Examples of past learning topics include restorative interventions, allyship, and analysis of anti-racist initiatives at peer institutions.
