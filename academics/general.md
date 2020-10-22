@@ -35,7 +35,7 @@ Mental health has been outsourced to the online BetterHelp program which is free
 
 Our student-experience coordinators / student ratio is 3 / 240 = 1/ 80 which is significantly lower than most colleges.  
 
-See full details on the [Student Life Page](https://github.com/MakeSchool/institutional-plan/blob/master/student-affairs/student-life.md)
+See full details on the Student Life Page.
 
 ### Coaching / Mentorship
 Make School provides many coaching and mentorship experiences for our students.  We know that 1:1 connections are vital to student success and are committed to retaining these in significant, value adding ways.   Each student is assigned a coach who supports their learning process throughout the program, and we have a series of community building workshops, student resource groups and other programs to provide specific support for various student coaching and mentorship needs.
@@ -45,7 +45,7 @@ Make School provides many coaching and mentorship experiences for our students. 
 Make School uses project based, hands-on, and active learning in all classes. Students learn product development through building software designed to impact real problems. You’ll be learning the same technologies, frameworks and design process used by tech companies.  
 
 ### Curriculum:
-Our Bachelor of Science in Applied Computer Science program consist of courses in the categories of Software Product Development, Technical Curriculum in one of four concentrations (Front End Web, Back End Web, Data Science, Mobile), and Science and Letters curriculum.  See the [Computer Science](https://github.com/MakeSchool/institutional-plan/blob/master/academics/computer-science.md) and [Science and Letters](https://github.com/MakeSchool/institutional-plan/blob/master/academics/sciences-and-letters.md) pages for more details.
+Our Bachelor of Science in Applied Computer Science program consist of courses in the categories of Software Product Development, Technical Curriculum in one of four concentrations (Front End Web, Back End Web, Data Science, Mobile), and Science and Letters curriculum.  See the Computer Science and Science and Letters pages for more details.
 
 ### Delivery Modality
 Since March 2020, due to the pandemic, all Make School courses have been delivered in a synchronous, online format.  Classes sessions include some lecture sessions to set learning context, but are primarily guided working sessions where students work solo or in groups with guidance and feedback from the instructors and TAs.  In an online setting, guided sessions are facilitated through software that allows for easy transition between full class, small group and 1:1 support.  Our instructors continue to experiment with innovative approaches to learning in an online setting.
