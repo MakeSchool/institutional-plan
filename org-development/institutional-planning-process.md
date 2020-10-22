@@ -4,7 +4,7 @@
 
 Make School’s approach to institutional planning is designed to allow for rapid iteration and innovation, while keeping all work aligned with the long term mission and vision. We operate on a principle of distributed ownership where all faculty and staff own their roles with certain responsibilities and authorities (**see Governance**); and, are expected to innovate within the scope of their roles. This allows us to set ambitious goals and empower high caliber talent to leverage their unique talents and ideas. We publish the bulk of our institutional plan publicly, visible to staff, students, and prospective students. Our institutional planning encompasses four overlapping processes:
 
-###Institutional Planning:
+### Institutional Planning:
 
 The following Institutional Planning processes and products were developed by the faculty and leadership of the program during its operation by Make Education Services and were approved by their Board. These are in the process of being reviewed for approval by the Board of Make School.
 
@@ -24,7 +24,7 @@ Every year during Q4, each team within the organization (eg. College, Admissions
 
 Simultaneously, teams work to finalize strategy and targets for functions they hold ownership over, and work with the finance department to produce an annual budget necessary to reach targets. For example, the Curriculum Committee determines operating plans and changes for academic work. An overview of the distribution of ownership can be seen in the Governance Manual. The leadership team then evaluates each team’s budget holistically as part of the entire organization budget and iterates to ensure this meets spending criteria. Progress and updates to the operating plan are discussed quarterly at board meetings and with the faculty and staff at State of the School presentations and town hall discussions. These discussions will have invited all students, faculty, and staff. A high level of the operating plan will be shared in video and written format on our public github repository.
 
-###Institutional Improvement
+### Institutional Improvement
 
 **Release Cycles:**
 Our release cycle process is the process by which we develop and implement improvements to operational activities in every area of the college. This process is critical to Make School’s execution and delivery of an effective education. In software development, a “release cycle” refers to the cadence at which product improvements are made by the team and the resulting software update is released to users. We are using this concept in an institutional setting to help drive innovation and agility. The purpose of the release cycle process is to:
