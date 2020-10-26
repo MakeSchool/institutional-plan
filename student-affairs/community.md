@@ -3,6 +3,8 @@
 *Last update: 10/26/20* <br>
 *Next updates: first week of December.* <br>
 
+### Community Offerings Fall 2020
+
 We know, the pandemic stinks. 
 
 But community will be our air freshener or smooth deodorant to overcome the isolation. We can fight the smell together! Community has become one of the most important metrics for the college given that our program is currently remote.
