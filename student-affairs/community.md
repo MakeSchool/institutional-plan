@@ -3,7 +3,7 @@
 *Last update: 10/26/20* <br>
 *Next updates: first week of December.* <br>
 
-### Community Offerings Fall 2020
+## Community Offerings Fall 2020
 
 We know, the pandemic stinks. 
 
@@ -33,16 +33,16 @@ We did it! No more smell.
 
 Remember to shower every day. 6 feet distance. Don’t touch your hands, face ….
 
-### OKRs
+## OKRs
 We measure the success of our community with the following Objectives and Key Results
 - Strong Community
-  - Community NPS score
-  - Belonging score
-  - Average # of "close friends I have at Make School" score
+  - Community NPS score above 70
+  - Average Sense of Belonging Score above 8 out of 10
+  - Average # of "close friends I have at Make School" score above 3
 - Community Led Initiatives
   - Number of events (includes committees/planning meetings) hosted by the community and average attendance
 
-### Any Questions?
+## Any Questions?
 
 We are happy to help!
 
