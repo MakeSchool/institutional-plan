@@ -46,5 +46,5 @@ We measure the success of our community with the following Objectives and Key Re
 
 We are happy to help!
 
-Questions regarding student leadership: megan.dias@makeschool.com
+Questions regarding student leadership: megan.dias@makeschool.com <br>
 Questions regarding community in class: dan@makeschool.com 
