@@ -36,9 +36,9 @@ Remember to shower every day. 6 feet distance. Donâ€™t touch your hands, face â€
 ## OKRs
 We measure the success of our community with the following Objectives and Key Results
 - Strong Community
-  - Community NPS score above 70
-  - Average Sense of Belonging Score above 8 out of 10
-  - Average # of "close friends I have at Make School" score above 3
+  - Score above 4 on the 1-5 scale of agreeing to "I feel connected to my community" (End of Term Survey)
+  - Average Sense of Belonging Score above 4 out of 5 (End of Term Survey)
+  - Scores above 4 on 1-5 scale of "I close friends I have at Make School"
 - Community Led Initiatives
   - Number of events (includes committees/planning meetings) hosted by the community and average attendance
 
