@@ -6,7 +6,7 @@
 
 *Council Updates*
 * New JEDI Program Coordinator for students has joined Make School and the Council!
-* OKRs have been discussed among teams. Process towards finalization is under way. Expect further updates in the next release cycle
+* JEDI Objectives and Key Results (OKRs) for each team have been discussed by the Council as well as each team. Process towards finalization is under way. Expect further updates in the next release cycle
 
 *Top priorities going into Term 4*
 * Finalize team-by-team JEDI OKRs
@@ -46,7 +46,7 @@ A preliminary version of the Council will meet initially about twice per month t
 
 Ideas for initial JEDI Council projects/initiatives:
 * Finalizing the structure and responsibilities of the JEDI Council
-* Creation of company-wide JEDI OKRs to include in rubrics for all team members
+* Creation of company-wide JEDI Objectives and Key Results (OKRs) to include in rubrics for all team members
 * Holding each team (including SLT) accountable for JEDI goals and metrics
 * Interviews of D&I consulting firms 
 * Support with hiring a full-time, staff JEDI resource at Make School who will also help continue to evolve the JEDI Council
