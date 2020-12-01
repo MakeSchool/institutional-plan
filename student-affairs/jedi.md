@@ -6,18 +6,17 @@
 
 *Council Updates*
 * New JEDI Program Coordinator for students has joined Make School and the Council!
-* Staff JEDI priorities and updates
 * OKRs have been discussed among teams. Process towards finalization is under way. Expect further updates in the next release cycle
 
 *Top priorities going into Term 4*
 * Finalize team-by-team JEDI OKRs
-  * The impact of this priority - Tracking JEDI metrics and setting targets for those metrics will help each team advance the goals of the company with regards to our commitments towards justice, equity, diversity, and inclusion.
+  * The impact of this priority - Tracking JEDI metrics and setting targets for those metrics will help each team advance the goals of the company with regards to our commitments towards justice, equity, diversity, and inclusion
 * Begin facilitating individual JEDI OKRs across the company
-  * Impact of this priority - The work of making Make School an equitable, accessible institution is best done when every team member at the company is paid to do and think about that work. Building JEDI OKRs into each individual's role will be an important step towards achieving that.
+  * Impact of this priority - The work of making Make School an equitable, accessible institution is best done when every team member at the company is paid to do and think about that work. Building JEDI OKRs into each individual's role will be an important step towards achieving that
 * Assist in hiring for Head of People
-  * Impact of this priority - The Head of People, ideally someone well-versed in leading organizations that are mission-oriented, will be an important addition to the company and will assist the JEDI Council in the work that the Council does.
+  * Impact of this priority - The Head of People, ideally someone well-versed in leading organizations that are mission-oriented, will be an important addition to the company and will assist the JEDI Council in the work that the Council does
 * Integrate new members of the team specifically focusing on our JEDI efforts and re-evaluate Council priorities/initiatives
-  * Impact of this priority - With the new JEDI Program Coordinator now on the team and a new Head of People joining soon as well, the JEDI Council will have more resources to impact JEDI efforts at Make School. With these new resources, we hope to ramp up our JEDI initiatives.
+  * Impact of this priority - With the new JEDI Program Coordinator now on the team and a new Head of People joining soon as well, the JEDI Council will have more resources to impact JEDI efforts at Make School. With these new resources, we hope to ramp up our JEDI initiatives
 
 *Student JEDI priorities and updates*
 * The Student JEDI Committee is now the Student JEDI Council
