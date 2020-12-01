@@ -1,6 +1,6 @@
 # Justice, Equity, Diversity, and Inclusion
 
-*Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Member)*
+*Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Co-Chair)*
 
 ## Term 3 Update - 11.30.20
 
@@ -59,9 +59,9 @@ Ideas for initial JEDI Council projects/initiatives:
 
 ### Information on Committees and/or Groups formed under the JEDI Council
 
-#### Student JEDI Committee
+#### Student JEDI Council
 *Purpose*
-* Why we created/joined this committee
+* Why we created/joined this Council
   * To help everyone feel represented
   * To help us all feel like we do have a place at Make School
   * To create a space where every voice can be heard
