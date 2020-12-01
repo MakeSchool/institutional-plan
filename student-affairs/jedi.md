@@ -2,6 +2,29 @@
 
 *Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Member)*
 
+## Term 3 Update - 11.30.20
+
+*Council Updates*
+* New JEDI Program Coordinator for students has joined Make School and the Council!
+* Staff JEDI priorities and updates
+* OKRs have been discussed among teams. Process towards finalization is under way. Expect further updates in the next release cycle
+
+*Top priorities going into Term 4*
+* Finalize team-by-team JEDI OKRs
+  * The impact of this priority - Tracking JEDI metrics and setting targets for those metrics will help each team advance the goals of the company with regards to our commitments towards justice, equity, diversity, and inclusion.
+* Begin facilitating individual JEDI OKRs across the company
+  * Impact of this priority - The work of making Make School an equitable, accessible institution is best done when every team member at the company is paid to do and think about that work. Building JEDI OKRs into each individual's role will be an important step towards achieving that.
+* Assist in hiring for Head of People
+  * Impact of this priority - The Head of People, ideally someone well-versed in leading organizations that are mission-oriented, will be an important addition to the company and will assist the JEDI Council in the work that the Council does.
+* Integrate new members of the team specifically focusing on our JEDI efforts and re-evaluate Council priorities/initiatives
+  * Impact of this priority - With the new JEDI Program Coordinator now on the team and a new Head of People joining soon as well, the JEDI Council will have more resources to impact JEDI efforts at Make School. With these new resources, we hope to ramp up our JEDI initiatives.
+
+*Student JEDI priorities and updates*
+* The Student JEDI Committee is now the Student JEDI Council
+* New JEDI Program Coordinator joined the team to support students and lead the student JEDI efforts as well as be a liaison between the larger JEDI Council and the Student JEDI Council. Expect further updates in the next release cycle
+
+## Summary
+
 Make School pledges to support initiatives that increase and maintain justice, equity, diversity, and inclusion for all students at Make School, and in particular those students for whom creating safe spaces in tech is of utmost importance. To do this work, we have formed the JEDI Council at Make School - an organization that will serve as an accountability body that can push Make school towards becoming an even more diverse and inclusive community. Below, you can find the JEDI Council Charter. As we evolve the JEDI Council and its charter over the next few months, we will be posting updates to this page.
 
 ## JEDI Council Charter
