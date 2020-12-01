@@ -2,13 +2,13 @@
 
 *Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Co-Chair)*
 
-## Term 3 Update - 11.30.20
+## JEDI Council Update - 11.30.20
 
 *Council Updates*
 * New JEDI Program Coordinator for students has joined Make School and the Council!
 * JEDI Objectives and Key Results (OKRs) for each team have been discussed by the Council as well as each team. Process towards finalization is under way. Expect further updates in the next release cycle
 
-*Top priorities going into Term 4*
+*Top priorities going into Term 3*
 * Finalize team-by-team JEDI OKRs
   * The impact of this priority - Tracking JEDI metrics and setting targets for those metrics will help each team advance the goals of the company with regards to our commitments towards justice, equity, diversity, and inclusion
 * Begin facilitating individual JEDI OKRs across the company
