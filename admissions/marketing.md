@@ -26,6 +26,7 @@ At the beginning of term one of 2021, the Marketing and Admissions team ran a su
 Key strategic marketing goals for 2021 are:
   - Lowering marketing spend, measured as the average marketing spend per one enrollee
   - Placing more emphasis on engaging with High School students earlier (Junior and Sophomore year)
+  - Develop marketing and outreach plan to reach more transfer students 
   - Ensuring Make School can be discovered organically on a variety of college platforms 
   - Placing more focus on events and initiatives specifically targeted to WomXn in tech
   - Improving and streamlining our core messaging to highlight a few key unique value propositions 
