@@ -1,4 +1,4 @@
-# Justice, Equity, Diversity, and Inclusion
+# Justice, Equity, Diversity, and Inclusion (JEDI)
 
 *Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Co-Chair)*
 
@@ -39,14 +39,14 @@ It is the JEDI Council's job to: (a) make policy recommendations regarding inclu
 
 One of the most important elements of the JEDI Council is cross-team participation. At least one member from each team, including SLT, will be a core member of the Council, with the option to rotate members in/out for more participation opportunities.
 
-A preliminary version of the Council will meet initially about twice per month to discuss and finalize our objectives, Council members, and initiatives. After the core Council is finalized, the Council will meet regularly to conduct panel reviews with each team to ensure adherence to the team's JEDI OKRs. The Council will also work on special independent projects and initiatives (see initial ideas below) to help advance JEDI goals at Make School.
+A preliminary version of the Council will meet initially about twice per month to discuss and finalize our objectives, Council members, and initiatives. After the core Council is finalized, the Council will meet regularly to conduct panel reviews with each team to ensure adherence to the team's JEDI Objectives and Key Results (OKRs). The Council will also work on special independent projects and initiatives (see initial ideas below) to help advance JEDI goals at Make School.
 
 
 ### Operation & Initiatives
 
 Ideas for initial JEDI Council projects/initiatives:
 * Finalizing the structure and responsibilities of the JEDI Council
-* Creation of company-wide JEDI Objectives and Key Results (OKRs) to include in rubrics for all team members
+* Creation of company-wide JEDI OKRs to include in rubrics for all team members
 * Holding each team (including SLT) accountable for JEDI goals and metrics
 * Interviews of D&I consulting firms 
 * Support with hiring a full-time, staff JEDI resource at Make School who will also help continue to evolve the JEDI Council
@@ -61,11 +61,11 @@ Ideas for initial JEDI Council projects/initiatives:
 
 #### Student JEDI Council
 *Purpose*
-* Why we created/joined this Council
+* Why we created/joined this Council:
   * To help everyone feel represented
   * To help us all feel like we do have a place at Make School
   * To create a space where every voice can be heard
-* Why we think this committee is important
+* Why we think this committee is important:
   * It will give us all a voice and let us all learn from one another 
   * It allows us to learn from each other’s experiences and come up with solutions so issues/problems that arise don’t happen again
 
