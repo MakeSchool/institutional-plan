@@ -2,7 +2,7 @@
 
 *Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Co-Chair)*
 
-## JEDI Council Update - 11.30.20
+## JEDI Council Update - 12.07.20
 
 *Council Updates*
 * New JEDI Program Coordinator for students has joined Make School and the Council!
