@@ -13,27 +13,6 @@ The way we communicate with our entire student body is critical.
 **Slack / Email / Meetings [Owner: College Team]: **We primarily use slack to communicate with students. Students are expected to check their slack messages at least once a day, along with their email for school-wide updates and calendar invites for classes, coaching meetings, events, etc. Every Monday, we send an Important Announcements email outlining key dates, initiatives, and upcoming events students should be aware of.
 
 
-### Security:
-
-**Campus (555 Post Street, San Francisco):**
-Safety is important to us. When on campus, all students and staff members use an ID card to badge into the building. This ensures that everyone walking in is part of our community and we are able to visually identify who enters.
-
-Guests visiting campus press the doorbell (located directly next to the door) and their contact will let them in the building. They will then sign in using an IPad to verify their identity.
-
-We previously had Student Receptionists, as well as a Security Guard as other means of safety precautions to not only greet folks as they walk in, but to also ensure anyone within the radius of the front door of Make School who enters is invited to do so.
-
-On an annual basis, we will train all staff & new hires on our security and emergency protocols, including how to respond to security breaches.
-
-We are currently in the process of developing an “Emergency” page on our website, in which students, staff, and their families can receive updates on emergencies that may impact our campus, including our campus housing. All community members are encouraged to [sign up for our text alert system](https://mobile-text-alerts.com/subscribe/MakeSchoolAlert), in which they can receive live-time emergency and security updates.
-
-**851 California Street: ** Some students live in 851. There is a security guard monitoring the building every day from 10:30pm-6:30am PST.
-
-**Herbert Hotel:**
-Some students live in the Herbert Hotel. There’s limited front desk hours there.
-
-For questions on building and housing security, contact [Eric@makeschool.com](mailto:Eric@makeschool.com).
-
-
 ### Health Insurance:
 
 We are aware that health insurance is a significant need for many of our students and are actively working to determine how to better support students in accessing health care. We will soon be assigning a staff member to take on this project and explore both short-term and long-term solutions. As of right now, we want to better understand why students are not qualifying for MediCal and determine if we need to change the terms of the ISA model to allow students to utilize this option. Once we understand why students are not currently eligible, we will be able to create a 2-3 year plan to address this issue. Our ultimate goal is to have 100% of our students have regular access to health care.
