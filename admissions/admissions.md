@@ -8,7 +8,7 @@ Based on feedback from EY20 applicants and admissions staff, we implemented the 
 
 
 
-*   1:1 no longer required for all applicants
+*   1:1 admissions interview is no longer required for all applicants 
 *   Application fee for international applicants
 
 
