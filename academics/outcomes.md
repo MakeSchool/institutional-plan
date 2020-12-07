@@ -1,11 +1,13 @@
 # Outcomes
 
-*Staff area owner and author: Anne Spalding (Interim Outcomes Manager)*
+*Staff area owner and author: Casey Spurgeon: Director of Career Outcomes and Talent Partnerships*
 
 **Our focus for outcomes initiatives is to place 95% of our grads in jobs that average $90k+ annual salary.**
 
+## December 2020 Updates
+Casey Spurgeon: Director of Career Outcomes and Talent Partnerships has been hired to lead the Outcomes team.  He is currently onboarding and will be revamping the outcomes program in the following weeks.  
 
-## Updates for Term 2 - 2020
+## October 2020 Updates
 - We are in the process of hiring a new Outcomes Manager and hope to have them on board by early November.
 
 
