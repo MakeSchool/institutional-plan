@@ -4,7 +4,7 @@
 
 ### **Tuition Costs for Make School at Dominican:**
 
-The tuition costs below apply to students entering Make School in Fall 2019 and Fall 2020. The invoice dates shown below may vary slightly depending on the application of Federal financial aid and other factors.  
+The tuition costs below apply to students entering Make School in Fall 2019 and Fall 2020. The invoice dates shown below may vary slightly depending on the application of Federal financial aid. 
 
 
 <table>
@@ -71,10 +71,37 @@ The tuition costs below apply to students entering Make School in Fall 2019 and 
 </table>
 
 
+If a student elects to pay the entirety or a portion of tuition owed out-of-pocket, additional payment plans are available on a case-by-case basis. Please email  [financial.aid@makeschool.com](mailto:financial.aid@makeschool.com) if you have questions about this option and its applicability to your individual circumstances.
+
 
 ### **Financial Aid Options:**
 
-U.S. Citizens and [eligible non-citizens](https://studentaid.gov/understand-aid/eligibility) will need to submit a Free Application for Federal Student Aid (FAFSA) to apply for financial aid. Once your application is complete, you will receive an estimate of the aid you are eligible for. If the aid you are estimated to receive does not fully cover your cost of attendance (tuition and living expenses - see estimated costs at the bottom of [this page](https://www.makeschool.com/computer-science-degree/tuition-and-aid) under “Academic Year Budget”), you will need to apply for additional loans. 
+U.S. Citizens and [eligible non-citizens](https://studentaid.gov/understand-aid/eligibility) will need to submit a [Free Application for Federal Student Aid (FAFSA)](https://studentaid.gov/h/apply-for-aid) to apply for financial aid. The FAFSA computes your Expected Family Contribution (EFC) and allows schools to determine your financial need. By filing a FAFSA, you’re applying for Federal Aid, State Aid, and some types of institutional aid. 
+
+Once your application is complete, you will receive an estimate of the aid you are eligible for. If the aid you are estimated to receive does not fully cover your cost of attendance (tuition and living expenses - see estimated costs at the bottom of [this page](https://www.makeschool.com/computer-science-degree/tuition-and-aid) under “Academic Year Budget”), you will need to apply for additional loans. 
+
+**Types of Financial Aid:**
+
+
+
+*   Pell Grant (Free Money): Up to $6,345
+*   Federal Subsidized Loan: $3,500-$5,500 (based on year in school)
+*   Federal Unsubsidized Loan: $2,000-$7,000
+*   Federal Direct Parent PLUS Loan: Up to Cost of Attendance
+*   Private Loan (FAFSA not required): Up to Cost of Attendance
+
+**Benefits of Federal Student Loans:**
+
+
+
+*   Low interest rates 0%-2.75% (20/21 academic year)
+*   No payments while in school
+*   Income based repayment plan options
+*   Ability to postpone payments
+*   Loan forgiveness options
+*   No credit check
+
+**Additional Options to Finance Your Education or Remaining Tuition Balance:**
 
 If you are under 24 years of age, talk to your parents about submitting a Parent Plus loan. 
 
@@ -86,7 +113,7 @@ The EIBR protection plan is designed as an extension of the Federal IBR program 
 
 We recommend sharing the above information on Make School’s EIBR plan with your parents in advance of them applying for a Parent Plus loan, or with your potential cosigners to help them understand the protections offered to you under this program. 
 
-If you are denied or ineligible for a Parent Plus loan, and were denied from two separate lenders for personal student loans and do not have a cosigner, we will be working to increase your FAFSA amount and once that number is finalized, we will issue you an income share agreement (ISA) to sign to cover your remaining balance if you qualify.
+If you are denied or ineligible for a Parent Plus loan, and were denied from two separate lenders for personal student loans and do not have a cosigner, we will work to increase your FAFSA amount and once that number is finalized, we will issue you an income share agreement (ISA) to sign to cover your remaining balance if you qualify. **You must accept the Federal and State Aid offered to you before the ISA will apply to your remaining balance.**
 
 See [this checklist](http://make.sc/finaid-checklist) for additional information regarding applying for loans. 
 
@@ -100,4 +127,5 @@ For ISAs, we work with a partner (Vemo) who helps us manage contracts, signature
 
 Additional details on our financial aid model, thought process, and more resources can be found [on our website](https://www.makeschool.com/computer-science-degree/tuition-and-aid), including [FAQs](https://www.makeschool.com/computer-science-degree/faq#tuition__aid), [EIBR protection plan](https://www.makeschool.com/computer-science-degree/eibr-protection-plan), [private loan resources](https://www.makeschool.com/computer-science-degree/private-loans), and [scholarship resources](https://www.makeschool.com/computer-science-degree/scholarship-resources). 
 
-If you have questions that are not answered in the resources above, or have questions particular to your specific circumstances, please contact us at [financial.aid@makeschool.com](mailto:financial.aid@makeschool.com) for additional assistance.
+If you have questions that are not answered in the resources above, or have questions particular to your specific circumstances, please contact us at [financial.aid@makeschool.com](mailto:financial.aid@makeschool.com) for additional assistance. 
+
