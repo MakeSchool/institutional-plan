@@ -119,7 +119,7 @@ See [this checklist](http://make.sc/finaid-checklist) for additional information
 
 As your aid is processed, there will be additional steps you will need to take. These are dependent on your specific circumstances. For example, your FAFSA application may be tagged for verification, which will require you to submit additional documentation to validate the aid available to you. These items will need to be completed before we can finalize your award and send you your award letter. Another example is paperwork required by Dominican University to process your disbursements. Missing documents can be found in your [Dominican Financial Aid Portal](https://aid.dominican.edu/).
 
-**You must complete all missing documents and take action on your financial aid award letter by the add/drop deadline for Term 1 for Fall disbursements (9/2/2020), or by the add/drop deadline for Term 3 for Spring disbursements (1/25/2020). If your financial aid items are not complete, a financial hold will be placed on your account. **
+**You must complete all missing documents and take action on your financial aid award letter by the add/drop deadline for Term 1 for Fall disbursements (9/2/2020), or by the add/drop deadline for Term 3 for Spring disbursements (1/25/2020). If your financial aid items are not complete, a financial hold will be placed on your account.**
 
 The sole financial aid offered to international students are ISAs. This aid is limited, and we work with students on a case by case basis to determine eligibility. 
 
