@@ -3,7 +3,7 @@
 * [Home](/#make-school-institutional-plan)
 * Academics
   * [General](academics/general.md)
-  * [Computer Science](academics/computer-science.md)
+  * [Academic Updates](academics/academic-updates.md)
   * [Sciences and Letters](academics/sciences-and-letters.md)
   * [Outcomes](academics/outcomes.md)
 * Student Affairs
@@ -16,6 +16,9 @@
   * [Tuition and Financial Aid](operations/tuition-and-financial-aid.md)
   * [Housing](operations/housing.md)
   * [Campus](operations/campus.md)
+* Admissions
+  * [Admissions](admissions/admissions.md)
+  * [Marketing](admissions/marketing.md)
 * Organizational Development
   * [General Updates](org-development/general.md)
   * [Mission and Objectives](org-development/mission-and-objectives.md)

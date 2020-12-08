@@ -2,17 +2,28 @@
 
 *Staff area owner and author: Justine Meyr*
 
-### Framework for Make School Science & Letters
-**Rational:** Make School’s general education program aims to develop our students into well rounded and engaged citizens.
+### Outline of update:
 
-   Our curriculum uses the lenses of Self, Community, and World to help students develop agency, embody a growth mindset, learn to solve impactful problems, and engage in their communities. Our courses are project-based, interdisciplinary, connected to real-world phenomenon, and emphasize character development.
+1. What is the framework for S&L, how are we thinking about it?
+2. New courses + info
+3. How did we decide on these courses?
+4. We are hiring
 
-**Implementation:** Make School S&L is 30 units offered as 10 3-unit courses. It is comprised of 9 courses that fall into three categories representing the scope of impact; Self, Community, World; and a single 3-unit capstone course that synthesizes S&L learning. All courses meet at least one of the 4 WASC Core Competencies: written and oral communication, quantitative reasoning, information literacy, and critical thinking .
+### S&L Framework
 
- **Timeline:**
-    - Spring 2020: Make School creates General Education Framework (S&L) and plan for integration with DU CORE and hires 2 S&L faculty to teach S&L sections full time onsite.
-   - Fall 2020 - Spring 2021: Courses are delivered in both the 15 week and 7 week format as works best with course material and faculty availability.  
-  - Fall 2020: Make School proposes 4 new courses that meet DU CORE category requirements and MS S&L framework.
-  - Fall 2021-Spring 2021 Make School hires additional S&L faculty to meet incoming student needs.  Courses delivered are a blend of DU CORE(5) and MS S&L (4)
-  - Fall 2021: Make School proposes 5 new courses that meet DU CORE category requirements and MS S&L framework. If approved these will be delivered in Fall 2022.
-   - Fall 2022 - Spring 2023: Make School hires additional faculty to meet 100% of S&L needs
+*   The framework of the S&L courses fall into the three categories of Self, Community, and World.  Each category strives to build out a different skill set and understanding of a person’s life in relation to technology, and the world around them.  Our courses will focus on advancing the skills of quantitative literacy, critical thinking, communication, and information literacy.  As the Tech industry, economy, and world transforms, our S&L framework aims to adapt and evolve, in order to adequately prepare our students for success.
+
+**Course Research**
+
+*   As we build out our new General Education requirements we will be conducting interviews with leaders in the Tech industry to get a better understanding of industry needs. We will also take into consideration student course evaluations as we continue to create the S&L curriculum.  It is important for students to give us midterm and final feedback on courses so that we can determine the utility of the courses and their curriculum.  
+
+**New Courses for Spring 2021**
+
+*   Make School will be offering three new courses this Spring:
+    *   **Technology and Equity:** This course will investigate the relevance of gender, race, and sexuality to understanding technology and the development of new technologies.
+    *   **Microeconomics and Personal Finance:** This course constructs the beginning of a strong foundation of economics and personal finance in order to empower students to function effectively as consumers, workers, investors, entrepreneurs, and active citizens.  
+    *   **Ethics and Society: **This course will explore the ethical complexities of information and communication technology in relation to humankind.
+
+**Hiring for Spring 2021**
+
+*   We are currently hiring two adjunct instructors to teach Ethics and Microeconomics. Selected students will be given an opportunity to participate in sample teaching from the candidates during our hiring process.   
