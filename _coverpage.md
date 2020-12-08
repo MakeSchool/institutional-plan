@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/logo-grey.svg) -->
 
-# Make School Institutional Plan <small>0.5</small>
+# Make School Institutional Plan <small>1.0</small>
 
 > Documentation about Make School's offerings and future plans.
 
