@@ -7,7 +7,7 @@
 
 
 ## Delivery
-For Fall 2021, we will be offering the BACS program in two different formats: onsite in San Francisco, and online. We are in the process of finalizing the details of online delivery, but are sharing what we know so far in the name of transparency. 
+For Fall 2021, we will be offering the BACS program in two different formats: On Campus in San Francisco, and Online. We are in the process of finalizing the details of online delivery, but are sharing what we know so far in the name of transparency. 
 
 Industry norms have shifted significantly, and remote work is likely to figure prominently in post pandemic tech life. Meetings will often include both in-person and remote employees in the same meeting given that many tech employees have shifted to permanent remote work. Showing up to the office from 9-5, 5 days a week is less likely to be the daily norm, with the office used as a collaborative workspace and for social events. Make School program changes for next year are inspired by this industry shift. 
 
@@ -17,32 +17,32 @@ We welcome your feedback and questions and we finalize our online offering.
 
 ### Details: 
 
-Students will attend the program either onsite in San Francisco or online.  
-- The onsite experience is available for students who are living in the SF area and can be on campus at 555 post from 9:30 - 5:30 PST M-F.  
-- The online experience is offered for students who do not live in San Francisco and will not access the SF campus at any time. 
+Students will attend the program either On Campus in San Francisco or Online.  
+- The On Campus experience is available for students who are living in the SF area and can be on campus at 555 Post St. from 9:30 - 5:30 PST M-F.  
+- The Online experience is offered for students who can live anywhere and will not access the SF campus at any time. These students will be online from 9:30 - 5:30 PST M-F.  
 
 The primary difference between these two options will come in orientation, courses, and career support. 
 
 ### Orientation
-If it is safe to do so, Fall 2021 orientation will be held at the end of August in San Francisco. All online and onsite students will be invited to participate in a 3 day orientation. Attendance will be highly recommended but not mandatory for online students. 
+If it is safe to do so, Fall 2021 orientation will be held at the end of August in San Francisco. All On Campus and Onsite students will be invited to participate in a 3 day orientation. Attendance will be highly recommended but not mandatory for Online students. 
 
 ### Courses
 All courses will continue to use project based, active learning to provide the highest quality learning experience and mirror industry practices. Courses consist of four major components; lectures, guided work time, group work and frequent feedback on your work and learning process. 
     
 **Lectures:** The purpose of the lecture is to give students the opportunity to learn from our faculty’s industry expertise. The lecture portion of a course provides the motivation and context for the topic to be explored.
 - Make School is investing in high quality, pre-recorded video to augment lectures, with the goal of further shifting lecture time to an asynchronous model where students can listen to the lecture on their own time and the time with the course instructor can be dedicated to guided active learning, discussion, and live Q&A. 
-- All lectures will be delivered online whether you are an SF student or online student. 
-- Some lectures may be recorded from a classroom in SF, so SF students may have the option of attending certain classes in-person that are simultaneously being attended by online students streaming the same class. This will be confirmed at the time course registration opens for next fall. 
+- All lectures will be delivered online whether you are an On Campus or Online student. 
+- Some lectures may be recorded from a classroom in SF, so On Campus may have the option of attending certain classes in person that are simultaneously being attended by Online students streaming the same class. This will be confirmed at the time course registration opens for next fall. 
 - The SF campus will be reconfigured to support students tuning into online lectures in groups.
-- Students in SF will also have the flexibility of attending lectures from their dorms or housing if they prefer.  
+- On Campus students will also have the flexibility of attending lectures from their dorms or housing if they prefer.  
 
 **Guided Work Time (Lab):** Provides the opportunity to learn while building projects and working on real world applications of concepts. Students work on class projects with support from a mix of senior student TAs, professional TAs that have worked in the industry, and class instructors. 
-- SF students will have access to in-person and online guided support.
+On Campus students will have access to in-person and online guided support.
 - Online students will have guided support through scheduled zoom room time with TAs, 1:1 office hours and always open online forums like Discourse.
-- Unlike lectures, labs will often (but not always) be grouped by modality. SF students will have in-person lab sections with other SF students, online students will have online sections with other online students. Sometimes, small class sizes may require us to blend lab sections with SF and online students. 
+- Unlike lectures, labs will often (but not always) be grouped by modality. On Campus students will have in-person lab sections with other On Campus students, Online students will have online sections with other Online students. Sometimes, small class sizes may require us to blend lab sections with On Campus and Online students. 
 
 **Group Work:**  Group project work allows students to learn from each other and learn how to operate on a team. 
-- Unlike lectures, group work will often (but not always) be grouped by modality. SF students will be placed on teams with other SF students, online students will be placed on teams with other online students. Sometimes, small class sizes may require us to create hybrid teams with online and SF students.
+- Unlike lectures, group work will often (but not always) be grouped by modality. On Campus students will be placed on teams with other On Campus students, Online students will be placed on teams with other Online students. Sometimes, small class sizes may require us to create hybrid teams with Online and On Campus students.
 
 **Feedback:** Feedback is vital to the learning process and a major part of the Make School pedagogy.   
 - Feedback on coursework is provided asynchronously through rubrics, automated testing of programs, written comments from instructors and TAs.
@@ -51,13 +51,13 @@ All courses will continue to use project based, active learning to provide the h
 
 ### Career Support
 Career support at Make School is provided through dedicated outcomes staff, outcomes events, and industry guest speakers.
-- Meetings with career support staff will occur on campus for SF based students and online for online students. 
-- ll industry guest speakers will be available to stream online and online students will have the same opportunity to ask questions as SF students. Some may come in to SF campus to speak, others may be fully online
+- Meetings with career support staff will occur on campus for On Campus students and online for Online students. 
+- All industry guest speakers will be available to stream online and Online students will have the same opportunity to ask questions as On Campus students. Some may come in to the SF campus to speak, others may be fully online
 - Career fairs will be held in two different formats:
   - Online career fairs will use Spatial Chat and our proprietary online demo infrastructure and will target employers hiring remotely. 
-  - SF career fairs will happen in SF and target employers hiring locally.
-  Online students are invited to fly to SF to participate in the in-person demo nights if they prefer. Dates are announced at the start of the school year.
-- Field trips to partner companies will only be offered to SF students
+  - On Campus career fairs will happen in SF and target employers hiring locally.
+  Online students are invited to fly to SF to participate in the On Campus career fairs if they prefer. Dates are announced at the start of the school year.
+- Field trips to partner companies will only be offered to On Campus students
 
 ### YOUR INPUT WANTED
 We are just beginning to make decisions about the Fall 2021 BACS format and would love your input.  Throughout Term 3 and Term 4 we will be innovating on our program to meet the demands of this new format.  
