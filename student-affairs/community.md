@@ -1,11 +1,9 @@
 # Community Strategy V5  
 *Staff area owner and author: Megan Dias (Student Experience Manager) and Dan Morse (Instructor Manager)* <br>
-*Last update: 10/26/20* <br>
-*Next updates: first week of December.* <br>
 
 ## Community Offerings Fall 2020
 
-We know, the pandemic stinks. 
+We know, the pandemic stinks.
 
 But community will be our air freshener or smooth deodorant to overcome the isolation. We can fight the smell together! Community has become one of the most important metrics for the college given that our program is currently remote.
 
@@ -47,4 +45,4 @@ We measure the success of our community with the following Objectives and Key Re
 We are happy to help!
 
 Questions regarding student leadership: megan.dias@makeschool.com <br>
-Questions regarding community in class: dan@makeschool.com 
+Questions regarding community in class: dan@makeschool.com

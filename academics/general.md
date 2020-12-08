@@ -16,7 +16,7 @@ The college uses OKRs (Objectives and Key Results) to focus our work on measurab
 ### Community
 Make School is committed to recruiting and supporting students from diverse backgrounds that are historically underrepresented in technical careers. This fall we welcomed 107 new juniors along with 102 returning seniors and 28 super seniors for a total student body of 237 students. Enrollment and demographic data is published on our [website](https://www.makeschool.com/computer-science-degree/outcomes/data).   
 
-The **Make School Student Life Team** is dedicated to building and maintaining a thriving community through coaching, events, mental health support, student clubs and much more.  See full details on the *Student Life Pages* 
+The **Make School Student Life Team** is dedicated to building and maintaining a thriving community through coaching, events, mental health support, student clubs and much more.  See full details on the *Student Life Pages*
 
 ### Curriculum  
 
@@ -40,6 +40,6 @@ Make School uses project based, hands-on, and active learning in all classes. St
 ### Faculty:
 Make School faculty have a background in both strong teaching and relevant industry experience.  Our technical faculty have worked as software engineers at major tech companies, built software startups and contributed to recent research and software platforms in their fields.  
 
-Our faculty / student ratio is 1 / 18 with an average class size of 20.  Each class has additional support from Teaching Assistants, Curriculum Developers, and guest sessions from industry professionals. 
+Our faculty / student ratio is 1 / 18 with an average class size of 20.  Each class has additional support from Teaching Assistants, Curriculum Developers, and guest sessions from industry professionals.
 
 For the 2021 school year we have 11 full-time technical faculty, 2 full-time S&L faculty and 7 part-time S&L faculty.
