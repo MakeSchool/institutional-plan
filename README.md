@@ -1,5 +1,4 @@
 # Make School Institutional Plan
-A public repository communicating and tracking changes to Make School's institutional plan
 
 *Staff project owner: Ashu Desai (Founder)*
 
