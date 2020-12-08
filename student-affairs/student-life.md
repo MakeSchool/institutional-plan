@@ -12,31 +12,6 @@ The way we communicate with our entire student body is critical.
 
 **Slack / Email / Meetings [Owner: College Team]: **We primarily use slack to communicate with students. Students are expected to check their slack messages at least once a day, along with their email for school-wide updates and calendar invites for classes, coaching meetings, events, etc. Every Monday, we send an Important Announcements email outlining key dates, initiatives, and upcoming events students should be aware of.
 
-
-### Security:
-
-**Campus (555 Post Street, San Francisco):**
-Safety is important to us. When on campus, all students and staff members use an ID card to badge into the building. This ensures that everyone walking in is part of our community and we are able to visually identify who enters.
-
-Guests visiting campus press the doorbell (located directly next to the door) and their contact will let them in the building. They will then sign in using an IPad to verify their identity.
-
-When we reopen campus, we will reintroduce Student Receptionists and a Security Guard as additional safety precautions to not only greet folks as they walk in, but to also ensure anyone within the radius of the front door of Make School who enters is invited to do so.
-
-On an annual basis, we will train all staff & new hires on our security and emergency protocols, including how to respond to security breaches.
-
-We conduct annual fire drills in student housing. Once campus reopens, we will resume annual fire drills for all on-campus students. 
-
-We are currently in the process of developing an “Emergency” page on our website, in which students, staff, and their families can receive updates on emergencies that may impact our campus, including our campus housing. All community members are encouraged to [sign up for our text alert system](https://mobile-text-alerts.com/subscribe/MakeSchoolAlert), in which they can receive real-time emergency and security updates.
-
-**851 California Street:** 
-
-Some students live at 851 California St. There is a security guard monitoring the building every day from 10:30pm-6:30am PST.
-
-**Herbert Hotel:**
-Some students live in the Herbert Hotel. There are limited front desk hours there.
-
-For questions on building and housing security, contact [Eric@makeschool.com](mailto:Eric@makeschool.com).
-
 ### Health Insurance:
 
 We are aware that health insurance is a critical need for many of our students. We have assigned a staff member to take student health insurance options as a project and explore both short-term and long-term solutions. To start, we are conducting research to better understand which student profiles are not qualifying for MediCal and why. Once we understand which students are not currently eligible and why, we will search for complementary options that our students can afford. Our ultimate goal is to have 100% of our students have regular access to health care.
