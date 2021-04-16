@@ -1,3 +1,11 @@
+# April 2021 Updates
+## Curriculum
+- In term 3 we offered several courses in a self-paced, blended format where course lectures are recorded and class time is used for questions, discussion, active learning and providing students feedback on their work.  Feedback from term 3 in the courses where this was implemented was very positive, so we are now implementing this in more courses in term 4 and term 5.  Please continue to give your instructors feedback on how this is working. 
+
+## Delivery
+For Fall 2021, we will be offering the BACS program in two different formats: On Campus in San Francisco, and Online. We will be asking students to choose which program they want to attend in early June.  Full details on how these two programs will work is on the [website](https://www.makeschool.com/computer-science-degree/enrollment-options).
+
+
 # December 2020 Updates
 
 ## Curriculum
