@@ -2,7 +2,7 @@
 
 *Staff area owner and author: Komal Desai (Communications Manager and JEDI Council Co-Chair)*
 
-## JEDI Council Update - 04.16.21
+### JEDI Council Update - 04.16.21
 
 **Council Updates**
 
@@ -36,7 +36,7 @@ We’ve been ramping up our JEDI efforts thanks to the addition of both Carmen a
 * Students have begun planning a cultural podcast for the community as part of their JEDI efforts
 * We have extended an invitation to student JEDI council members to join the staff JEDI Reading Group sessions every other week
 
-## JEDI Council Update - 12.07.20
+### JEDI Council Update - 12.07.20
 
 *Council Updates*
 * New JEDI Program Coordinator for students has joined Make School and the Council!
@@ -56,7 +56,7 @@ We’ve been ramping up our JEDI efforts thanks to the addition of both Carmen a
 * The Student JEDI Committee is now the Student JEDI Council
 * New JEDI Program Coordinator joined the team to support students and lead the student JEDI efforts as well as be a liaison between the larger JEDI Council and the Student JEDI Council. Expect further updates in the next release cycle
 
-## Summary
+## JEDI Council Mission Statement
 
 Make School pledges to support initiatives that increase and maintain justice, equity, diversity, and inclusion for all students at Make School, and in particular those students for whom creating safe spaces in tech is of utmost importance. To do this work, we have formed the JEDI Council at Make School - an organization that will serve as an accountability body that can push Make school towards becoming an even more diverse and inclusive community. Below, you can find the JEDI Council Charter. As we evolve the JEDI Council and its charter over the next few months, we will be posting updates to this page.
 
