@@ -17,16 +17,16 @@ Additions to this segment of the repository are extraordinarily welcome, and enc
   5. Concentrations
   6. Or any combination of the above, or anything we've missed, so long as it:
 
-    1. Would improve the organization as a whole or the experience of a whole group of stakeholders (i.e: staff, or students)
-    2. Is constructive (i.e: not an insult, rant, etc.)
+      1. Would improve the organization as a whole or the experience of a whole group of stakeholders (i.e: staff, or students)
+      2. Is constructive (i.e: not an insult, rant, etc.)
 
 2. **How do I submit an Issue?**
 
-- In order to submit an issue, navigate to the [issues]() segment of our repository (if you aren't there already!) and click on "New Issue" - it's a bright green button in the upper right-hand corner of the page!
+- In order to submit an issue, navigate to the [issues](https://github.com/MakeSchool/institutional-plan/issues) segment of our repository (if you aren't there already!) and click on "New Issue" - it's a bright green button in the upper right-hand corner of the page!
 
 - Select the category your issue falls under! If you aren't quite sure, pick the one that you think is the closest.
 
-- Fill out our [issues template]() (it will autopopulate in the body of the issue) with your specific information, and add a descriptive title.
+- Fill out our issues template (it will autopopulate in the body of the issue) with your specific information, and add a descriptive title.
 
   Examples of good titles:
 
@@ -57,4 +57,4 @@ If this is the case, we'll send out notifications to students via Slack to updat
 
 5. **I have more questions, who do I ask?**
 
-If you have questions about this process, reach out to a member of Student Council! They'll either be able to answer your specific questions, or direct you to the appropriate staff member who can! 
+If you have questions about this process, reach out to a member of Student Council! They'll either be able to answer your specific questions, or direct you to the appropriate staff member who can!
