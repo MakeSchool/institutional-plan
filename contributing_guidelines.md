@@ -1,6 +1,6 @@
 *Note!* This issue tracker should only be used for actionable and constructive feedback that impacts Make School as an organization or any given group of stakeholders (staff, students, etc.). If you encounter a situation which is highly personal (i.e: which only applies to your individual situation, or which you do not want shared publicly), and you're not sure who to reach out to, please contact a member of Student Experience for guidance.
 
-*Additional Note:* This issue tracker can not be used for emergent or urgent requests, or complaints regarding Code of Conduct violations. Should one of these issues arise, please reach out to a member of Student Experience or another staff member you trust via Slack or email.
+*Additional Note:* This issue tracker can not be used for emergent or urgent requests, or complaints regarding [Code of Conduct](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.xlozhda52bcz) violations. Should one of these issues arise, please fill out the [Student Reporting Form](http://make.sc/student-reporting-form) or reach out to a member of Student Experience or another staff member you trust via Slack or email.
 
 ## Issues
 
