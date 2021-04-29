@@ -2,7 +2,7 @@
 name: Academic Support
 about: Request for new academic resources or concern with existing support
 title: Academic Support request
-labels: ''
+labels: academic support
 assignees: ''
 
 ---
