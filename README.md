@@ -10,6 +10,12 @@ It is an experiment for a college to provide documentation and allow for discuss
 
 Our next update will be released in March. Stay tuned!
 
+## Tracking Issues and Updates:
+
+Student council is establishing a way to create and track issues on the institutional plan to allow for discussion of various aspects of Make School. Please review the contributing guidelines here:
+
+[https://github.com/MakeSchool/institutional-plan/blob/master/contributing_guidelines.md](https://github.com/MakeSchool/institutional-plan/blob/master/contributing_guidelines.md)
+
 ## May 2020 General Update:
 
 Dear Make School community - 2020 is off to a fast start. We are grateful that California is finding success in the battle against COVID-19 while recognizing that much of the world is not as fortunate.
