@@ -8,7 +8,7 @@ We hope this creates more transparency and better information communication prim
 
 It is an experiment for a college to provide documentation and allow for discussion in the format of a software project. We will learn along the way what works, what doesn't, and how to communicate more clearly and more efficiently. We hope by doing this we can hold ourselves to a higher standard of transparency, communication, and collaboration with our students, staff, prospective students, and broader community.
 
-Our next update will be released in March. Stay tuned!
+Our next update will be released in late summer. Stay tuned!
 
 ## Tracking Issues and Updates:
 
