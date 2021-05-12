@@ -2,6 +2,20 @@
 
 *Area owner and author: Michelle Blackburn (Director of Student and Academic Affairs). Interim owner: Megan Dias (Manager of Student Experience).*
 
+## April 2021 Update
+
+Based upon student feedback, and in large part to the efforts of Sid Arcidiacono, we are creating a process in which students can give feedback via new GitHub Issues. Ownership the Issues Guidelines will be shared between Make School staff and Student Council.
+
+##### The Guidelines provide processes for the following questions:
+How will issues be submitted?
+How will this affect our current feedback forms?
+Who will be responsible for submission of issues?
+How will staff interact with “issues”?
+How will this improve student morale and Make School’s ability to improve as an organization?
+
+##### Additional Work
+The current format of the Institutional Plan is challenging to navigate and requires a significant amount of drilling down in order to find additional information on various topics. During the next release cycle, and with the help of the new Issues Guidelines, we will work to restructure the Institutional Plan to have important information more readily accessible and easy to find.
+
 ### School-Wide Communication:
 
 The way we communicate with our entire student body is critical.
@@ -29,12 +43,12 @@ BetterHelp is 100% HIPAA compliant, which means legally your therapist cannot sh
 
 Title IX is a federal civil rights law passed as part of the Education Amendments of 1972. This law protects people from discrimination based on sex in education programs or activities. This includes protecting students from sexual misconduct: sexual harassment, intimate partner and domestic violence, stalking, nonconsensual sex or sexual contact, and retaliation based on unwillingness to participate in sexual acts or behaviors.
 
-Make School is committed to providing a safe and supporting learning environment for all community members. To report incidents related to Title IX, academic difficulties, or other concerning behaviors, students may use [this form](https://docs.google.com/forms/d/10F_jwgoiasmoJSAatMklao7en6U1nAP0EMbdufMwOF8/viewform?edit_requested=true&gxids=7628). Students can also use this form to refer their peers or themselves to receive support services. Please note that all information received in that form will remain private. For questions regarding Title IX, reach out to [Adam@makeschool.com](mailto:Adam@makeschool.com).
+Make School is committed to providing a safe and supporting learning environment for all community members. To report incidents related to Title IX, academic difficulties, or other concerning behaviors, students may use [this form](https://docs.google.com/forms/d/10F_jwgoiasmoJSAatMklao7en6U1nAP0EMbdufMwOF8/viewform?edit_requested=true&gxids=7628). Students can also use this form to refer their peers or themselves to receive support services. Please note that all information received in that form will remain private. For questions regarding Title IX, reach out to [carmen@makeschool.com](mailto:carmen@makeschool.com).
 
 
 ### Americans with Disabilities Act (ADA):
 
-The Americans with Disabilities Act provides those with a disability(s) access to the same rights and opportunities as everyone else.** **In order to receive services, students must fill out this [student intake form](http://make.sc/ada-intake-form) and meet with the ADA Coordinator to discuss reasonable accommodations based on the individual’s needs. The student will then provide instructor(s) with an electronic letter (via email) outlining the accommodations. For ADA questions or accommodations, reach out to [Anne@makeschool.com](mailto:Anne@makeschool.com).
+The Americans with Disabilities Act provides those with a disability(s) access to the same rights and opportunities as everyone else.** **In order to receive services, students must fill out this [student intake form](http://make.sc/ada-intake-form) and meet with the ADA Coordinator to discuss reasonable accommodations based on the individual’s needs. The student will then provide instructor(s) with an electronic letter (via email) outlining the accommodations. For ADA questions or accommodations, reach out to [valdine@makeschool.com](mailto:valdine@makeschool.com).
 
 
 ### Housing:

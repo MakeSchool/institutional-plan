@@ -87,14 +87,14 @@ Once your application is complete, you will receive an estimate of the aid you a
 *   Pell Grant (Free Money): Up to $6,345
 *   Federal Subsidized Loan: $3,500-$5,500 (based on year in school)
 *   Federal Unsubsidized Loan: $2,000-$7,000
-*   Federal Direct Parent PLUS Loan: Up to Cost of Attendance
-*   Private Loan (FAFSA not required): Up to Cost of Attendance
+*   Federal Direct Parent PLUS Loan: Up to the Cost of Attendance
+*   Private Loan (FAFSA not required): Up to the Cost of Attendance
 
 **Benefits of Federal Student Loans:**
 
 
 
-*   Low interest rates 0%-2.75% (20/21 academic year)
+*   Low interest rates 0%-2.75% (2020/2021 academic year)
 *   No payments while in school
 *   Income based repayment plan options
 *   Ability to postpone payments
@@ -113,7 +113,7 @@ The EIBR protection plan is designed as an extension of the Federal IBR program 
 
 We recommend sharing the above information on Make School’s EIBR plan with your parents in advance of them applying for a Parent Plus loan, or with your potential cosigners to help them understand the protections offered to you under this program. 
 
-If you are denied or ineligible for a Parent Plus loan, and were denied from two separate lenders for personal student loans and do not have a cosigner, we will work to increase your FAFSA amount and once that number is finalized, we will issue you an income share agreement (ISA) to sign to cover your remaining balance if you qualify. **You must accept the Federal and State Aid offered to you before the ISA will apply to your remaining balance.**
+If you are denied or ineligible for a Parent Plus loan, and were denied from two separate lenders for personal student loans and do not have a cosigner, we will work to increase your FAFSA amount and once that number is finalized, you may apply for an income share agreement (ISA) to sign to cover your remaining balance. **You must accept the Federal and State Aid offered to you before the ISA will apply to your remaining balance.**
 
 See [this checklist](http://make.sc/finaid-checklist) for additional information regarding applying for loans. 
 
@@ -123,9 +123,71 @@ As your aid is processed, there will be additional steps you will need to take. 
 
 The sole financial aid offered to international students are ISAs. This aid is limited, and we work with students on a case by case basis to determine eligibility. 
 
+**Income Share Agreements:**
+
+If you still have tuition and/or living expenses, up to the cost of attendance, that you have not been able to cover with existing financial aid options detailed above, students may apply for an income share agreement to cover the remaining balance. 
+
+Again, **income share agreements are not automatically granted and students must apply. Continuing students already approved for an income share agreement do not need to complete the application process again, but if there have been significant changes to your financial situation, please reach out to the [Financial Aid](mailto:financial.aid@makeschool.com) team for a 1:1 call.** 
+
+**The application process includes the following:
+
+
+
+1. Proof of denial or ineligibility for Parent PLUS loans
+2. Proof of denial for private student loans from at least two different lenders
+3. Confirmation of a lack of a cosigner
+4. Confirmation of no other existing (non-Make School related) income share agreements
+5. $ amount of existing outstanding debt
+
+Once approved for an income share agreement, we will generate and issue contracts for you to review and sign. If you will also need support for living expenses, we will confirm your requested amount during this portion of the process. 
+
 For ISAs, we work with a partner (Vemo) who helps us manage contracts, signatures, and ultimately, payment and deferment processing. When a contract is generated for you to review and sign, an invitation will be sent to your personal email (from Vemo) that is on file with Make School. ISAs are processed after the application of financial aid. 
+
+**Income Share Agreement Percentages and Terms (Class Entering Fall 2020):**
+
+
+
+*   Income Share Percentage:
+    *   Dependent on funding amount (Funding amount / 450,000)
+    *   For example, if your tuition ISA amount is $10,000, your income share percentage would be 2.22% for 10 years
+*   Income Share Payment Term: 10 years
+*   Payment Cap: 2.35 times the funding amount
+
+**Income Share Agreement Percentages and Terms (Class Entering Fall 2019):**
+
+
+
+*   Year 1 Revised Income Share Terms:
+    *   This agreement reduced income share percentages and extended the payment term to match existing ISA share percentages with anticipated Federal student loan payments
+    *   Income Share Percentage:
+        *   Dependent on funding amount (Funding amount / 550,000)
+    *   Income Share Payment Term: 10 years
+    *   Payment Cap: 2 times the funding amount
+*   Year 2 Income Share Terms:
+    *   Income Share Percentage:
+        *   Dependent on funding amount (Funding amount / 450,000)
+    *   Income Share Payment Term: 10 years
+    *   Payment Cap: 2.35 times the funding amount
+*   Students who did not qualify for Federal financial aid or paid for their tuition upfront instead of using Federal financial aid may elect to remain on our legacy ISA terms
+    *   Legacy Y1 ISA Tuition Terms:
+        *   Income Share Percentage: 20%
+        *   Payment Term: Dependent on funding amount, maximum 36 months (3 years)
+        *   Payment Cap: 2.5 times the funding amount
+    *   Legacy Y1 ISA Living Stipend Terms:
+        *   Income Share Percentage: 5%
+        *   Maximum Funding Amount: $19,800
+        *   Payment Term: Dependent on funding amount, maximum 88 months
+        *   Payment Cap: 3 times the funding amount
+    *   Legacy Y2 ISA Tuition Terms:
+        *   Income Share Percentage: 20%
+        *   Payment Term: Dependent on funding amount, maximum 24 months (2 years)
+        *   Payment Cap: 2.5 times the funding amount
+    *   Legacy Y2 ISA Living Stipend Terms:
+        *   Income Share Percentage: 7%
+        *   Maximum Funding Amount: $16,500
+        *   Payment Term: Dependent on funding amount, maximum 55 months
+        *   Payment Cap: 3 times the funding amount
 
 Additional details on our financial aid model, thought process, and more resources can be found [on our website](https://www.makeschool.com/computer-science-degree/tuition-and-aid), including [FAQs](https://www.makeschool.com/computer-science-degree/faq#tuition__aid), [EIBR protection plan](https://www.makeschool.com/computer-science-degree/eibr-protection-plan), [private loan resources](https://www.makeschool.com/computer-science-degree/private-loans), and [scholarship resources](https://www.makeschool.com/computer-science-degree/scholarship-resources). 
 
 If you have questions that are not answered in the resources above, or have questions particular to your specific circumstances, please contact us at [financial.aid@makeschool.com](mailto:financial.aid@makeschool.com) for additional assistance. 
-
